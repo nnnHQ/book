@@ -11,6 +11,7 @@
 
 * [何回注意を受けたら反省文？](warning/howmeny-writereminder.md)
 * [N予備校のスクリーンショットをSNSに公開すると起きること](warning/nyobikou-screenshot-publish.md)
+* [SlackのスクリーンショットをSNSに公開すると起きること](warning/slack-screenshot-publish.md)
 * [反省文について](warning/nitsuite.md)
 
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
