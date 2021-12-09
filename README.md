@@ -14,4 +14,4 @@ description: N高情報サイトHQ(nnn.education)のように長々と書かず�
 
 皆さんの素敵なPullRequestお待ちしてます。(ぷるぷる！)
 
-![Shia Approval](https://media.giphy.com/media/KdxDEzsGL97nf7ypGd/giphy.gif)
+![](https://media.giphy.com/media/KdxDEzsGL97nf7ypGd/giphy.gif)
