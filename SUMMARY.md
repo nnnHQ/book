@@ -19,6 +19,8 @@
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
 * [スクーリングの席は自由？](schooling/scooling-seat.md)
+* [単位認定試験日の変更について](schooling/change_exam_date.md)
+* [単位認定試験日はどのようにして決まる？](schooling/exam_human_rights.md)
 
 ## N高生が使えるツールについて <a href="#tools" id="tools"></a>
 
