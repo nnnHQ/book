@@ -22,3 +22,7 @@
 ## N高生が使えるツールについて <a href="#tools" id="tools"></a>
 
 * [Google WorkSpace](tools/google-workspace.md)
+
+## 単位認定試験について <a href="#approvalexamination" id="approvalexamination"></a>
+
+* [単位認定試験の日程はどこで確認できる？](approvalexamination/nohadokodedekiru.md)
