@@ -13,3 +13,5 @@ description: N高情報サイトHQ(nnn.education)のように長々と書かず�
 当サイトを管理している[リポジトリ](https://github.com/nnnhq/book/)PullRequestを送っていただければなるべく早く管理者が適用します。
 
 皆さんの素敵なPullRequestお待ちしてます。(ぷるぷる！)
+
+![Shia Approval](https://media.giphy.com/media/KdxDEzsGL97nf7ypGd/giphy.gif)
