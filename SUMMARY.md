@@ -17,3 +17,7 @@
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
 * [スクーリングの席は自由？](schooling/scooling-seat.md)
+
+## N高生が使えるツールについて <a href="#tools" id="tools"></a>
+
+* [Google WorkSpace](tools/google-workspace.md)
