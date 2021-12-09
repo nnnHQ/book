@@ -12,4 +12,4 @@ description: N高情報サイトHQ(nnn.education)のように長々と書かず�
 
 当サイトを管理している[リポジトリ](https://github.com/nnnhq/book/)PullRequestを送っていただければなるべく早く管理者が適用します。
 
-PullRequestお待ちしてます。
+皆さんの素敵なPullRequestお待ちしてます。(ぷるぷる！)
