@@ -6,3 +6,10 @@ description: N高情報サイトHQ(nnn.education)のように長々と書かず�
 
 ![](.gitbook/assets/nnn.book.png)
 
+### N高情報サイト(当サイト)に貢献する
+
+「N高の情報をまとめるのを手伝いたい」という素晴らしい方はどなたでも貢献していただくことができます。
+
+当サイトを管理している[リポジトリ](https://github.com/nnnhq/book/)PullRequestを送っていただければなるべく早く管理者が適用します。
+
+PullRequestお待ちしてます。
