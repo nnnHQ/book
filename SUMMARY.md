@@ -14,6 +14,7 @@
 * [もしオンライン授業を忘れたらどうなる？](reportonline/forget-onlineclass.md)
 * [レポートはどれくらいで終わる？](reportonline/report-howlong.md)
 * [レポートが期限内に終わらなかったらどうなる？](reportonline/report-timelimit.md)
+* [レポートの進捗率を確認するには？](reportonline/reptonowosuruniha.md)
 
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
@@ -25,4 +26,4 @@
 
 ## 単位認定試験について <a href="#approvalexamination" id="approvalexamination"></a>
 
-* [単位認定試験の日程はどこで確認できる？](approvalexamination/nohadokodedekiru.md)
+* [単位認定試験の日程はどこで確認できる？](approvalexamination/schedule.md)
