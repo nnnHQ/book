@@ -13,6 +13,7 @@
 
 * [もしオンライン授業を忘れたらどうなる？](reportonline/forget-onlineclass.md)
 * [レポートはどれくらいで終わる？](reportonline/report-howlong.md)
+* [レポートが期限内に終わらなかったらどうなる？](reportonline/report-timelimit.md)
 
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
