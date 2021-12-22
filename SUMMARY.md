@@ -11,7 +11,7 @@
 
 ## 先生や学校について <a href="#teachers" id="teachers"></a>
 
-* [先生は生徒一人ひとりにしっかりと対応する？](teachers/hahitorinishikkaritosuru.md)
+* [先生は生徒一人ひとりにしっかりと対応する？](teachers/support.md)
 
 ## レポート・オンライン授業について <a href="#reportonline" id="reportonline"></a>
 
