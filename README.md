@@ -4,6 +4,10 @@ description: N高情報サイトHQ(nnn.education)のように長々と書かず�
 
 # TOP
 
+{% hint style="info" %}
+スマホの方は左上のハンバーガーメニュー(三)みたいなのを押したらいろんなページに飛べます！
+{% endhint %}
+
 ![](.gitbook/assets/nnn.book.png)
 
 ### N高情報サイト(当サイト)に貢献する
