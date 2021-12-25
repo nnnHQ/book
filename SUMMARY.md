@@ -20,22 +20,22 @@
 * [レポートが期限内に終わらなかったらどうなる？](reportonline/report-timelimit.md)
 * [レポートの進捗率を確認するには？](reportonline/reptonowosuruniha.md)
 
+## 単位認定試験について <a href="#approvalexamination" id="approvalexamination"></a>
+
+* [単位認定試験の日程はどこで確認できる？](approvalexamination/schedule.md)
+
 ## スクーリングについて <a href="#schooling" id="schooling"></a>
 
 * [スクーリングの席は自由？](schooling/scooling-seat.md)
 * [単位認定試験日の変更について](schooling/change\_exam\_date.md)
 * [単位認定試験日はどのようにして決まる？](schooling/exam\_human\_rights.md)
+* [雰囲気はどんな感じ？](schooling/atmosphere.md)
+* [途中で外出は可能？](schooling/deha.md)
 
 ## N高生が使えるツールについて <a href="#tools" id="tools"></a>
 
-* [Google WorkSpace](tools/google-workspace.md)
-
-## 単位認定試験について <a href="#approvalexamination" id="approvalexamination"></a>
-
-* [単位認定試験の日程はどこで確認できる？](approvalexamination/schedule.md)
-
 ## 通学コースについて <a href="#commute" id="commute"></a>
 
+* [Google WorkSpace](commute/google-workspace.md)
 * [出席率って成績に関わるの？](commute/attendance-rate.md)
-
 * [通学定期券は購入できるの？](commute/commuter-pass.md)
