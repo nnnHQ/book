@@ -34,8 +34,9 @@
 
 ## N高生が使えるツールについて <a href="#tools" id="tools"></a>
 
+* [Google WorkSpace](tools/google-workspace.md)
+
 ## 通学コースについて <a href="#commute" id="commute"></a>
 
-* [Google WorkSpace](commute/google-workspace.md)
 * [出席率って成績に関わるの？](commute/attendance-rate.md)
 * [通学定期券は購入できるの？](commute/commuter-pass.md)
