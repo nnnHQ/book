@@ -33,3 +33,9 @@
 ## 単位認定試験について <a href="#approvalexamination" id="approvalexamination"></a>
 
 * [単位認定試験の日程はどこで確認できる？](approvalexamination/schedule.md)
+
+## 通学コースについて <a href="#commute" id="commute"></a>
+
+* [出席率って成績に関わるの？](commute/attendance-rate.md)
+
+* [通学定期券は購入できるの？](commute/commuter-pass.md)
