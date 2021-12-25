@@ -30,7 +30,7 @@
 * [単位認定試験日の変更について](schooling/change\_exam\_date.md)
 * [単位認定試験日はどのようにして決まる？](schooling/exam\_human\_rights.md)
 * [雰囲気はどんな感じ？](schooling/atmosphere.md)
-* [途中で外出は可能？](schooling/deha.md)
+* [途中で外出は可能？](schooling/go-out.md)
 
 ## N高生が使えるツールについて <a href="#tools" id="tools"></a>
 
