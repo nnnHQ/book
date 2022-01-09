@@ -40,3 +40,4 @@
 
 * [出席率って成績に関わるの？](commute/attendance-rate.md)
 * [通学定期券は購入できるの？](commute/commuter-pass.md)
+* [途中で外出できるの？](commute/go-out.md)
